@@ -1,6 +1,6 @@
 Tea leaf disease detection using Convolutional Neural Networks
 
-The Tea Leaf Disease Detection project aims to develop a computer vision solution for automated detection and classification of diseases in tea leaves. By leveraging Tensorflow and FastAPI, this project provides a comprehensive pipeline for preprocessing tea leaf images, training a CNN model, and deploying a user-friendly API backend for disease prediction. With this project, tea plantation farmers and researchers can easily identify and monitor diseases affecting tea leaves, enabling timely interventions and improved crop management practices.
+The Tea Leaf Disease Detection project aims to develop a computer vision solution for automated detection and classification of diseases in tea leaves. By leveraging Tensorflow and Keras, this project provides a comprehensive pipeline for preprocessing tea leaf images, training a CNN model, and several transfer learning models and deploying a user-friendly API backend for disease prediction. With this project, tea plantation farmers and researchers can easily identify and monitor diseases affecting tea leaves, enabling timely interventions and improved crop management practices.
 
 Features:
 
